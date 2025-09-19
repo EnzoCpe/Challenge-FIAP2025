@@ -3,7 +3,7 @@
 ## 📄 Descrição do Projeto
 Este projeto é um MVP (Minimum Viable Product) desenvolvido em Streamlit que realiza uma análise completa de uma base de dados de clientes de uma empresa de transporte rodoviário. A aplicação segmenta clientes usando o modelo RFM e K-Means, prevê a probabilidade de próxima compra, compara viações em rotas específicas e fornece recomendações estratégicas de marketing.
 
-**Link para o aplicativo online:** [Ainda não disponível - será preenchido no Passo 3]
+**Link para o aplicativo online:** https://challenge-fiap2025-acfl3he6erhewyeotsavuy.streamlit.app
 
 ---
 
@@ -34,4 +34,5 @@ O dashboard é dividido em 4 seções principais:
 4.  Execute o aplicativo Streamlit:
     ```bash
     streamlit run app.py
+
     ```
